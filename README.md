@@ -4,3 +4,5 @@
 
 Для встановлення всіх потрібних бібліотек 
 `pip install -r requirements.txt`
+
+<t.me/testCSGO_bot>
